@@ -1,0 +1,48 @@
+h1{
+    color: chocolate;
+}
+
+.Header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 15px;
+    border:15px solid;
+    border-color: darkred;
+    border-radius: 10px;
+}
+.Games{
+    background-color:cyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin :15px;
+    border:15px solid;
+    border-color: darkred;
+    border-radius: 10px;
+}
+.Item{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin :15px;
+    border:5px solid;
+    border-color:violet;
+    border-radius: 15px;
+}
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.Head{
+    background-color: cyan;
+    margin :15px;
+    border:15px solid;
+    border-color: darkred;
+    border-radius: 10px;
+}
+p,h2{
+    text-align: left;
+}
